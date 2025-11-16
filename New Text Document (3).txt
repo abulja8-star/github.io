@@ -1,9 +1,0 @@
-<html>
-<head>
-  <meta property="og:title" content="Tweet Screenshot" />
-  <meta property="og:description" content="Click to view tweet" />
-  <meta property="og:image" content="https://imgur.com/a/ZBrcAOE" />
-  <meta http-equiv="refresh" content="0; url=https://x.com/Suke07R15/status/1989806450865209457" />
-</head>
-<body></body>
-</html>
